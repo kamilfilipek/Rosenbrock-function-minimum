@@ -12,5 +12,11 @@ The Rosenbrock function, also referred to as the Valley or Banana function, is a
 $$f(x,~y) ~ = ~ (1 ~ - ~ x)^2 ~ + ~ 100(y ~ - ~ x^2)^2$$
 
 ## 2. Used technologies
+- Python
+- NumPy
+- lmfit
 
 ## 3. How to use
+You need to install NumPy, lmfit, and obviously Python itself.
+```pip install numpy```
+```pip install lmfit```
