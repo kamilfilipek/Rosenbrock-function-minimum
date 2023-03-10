@@ -9,6 +9,8 @@ The Rosenbrock function, also referred to as the Valley or Banana function, is a
   style="display: block; margin-left: 400px; width: 100px">
 
 
+![Rosenbrock function visualization](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rosenbrock_function.svg/720px-Rosenbrock_function.svg.png){ width="800" height="600" style="display: block; margin: 0 auto" }
+
 $$f(x,~y) ~ = ~ (1 ~ - ~ x)^2 ~ + ~ 100(y ~ - ~ x^2)^2$$
 
 ## 2. Used technologies
